@@ -1,0 +1,38 @@
+filename = 'tfc_alloy_ext-neoforge-0.1.0-beta.jar'
+name = 'TFC Alloy Extension'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = '1162370732d7bac45cbed57ac46e951178538cf042ae336158960445861caee191f3e4550ade6a6a2228844821dadf9e6c6f767238b136196c72ae1a35f746bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IsNt34Dd/versions/cCQwW1AJ/tfc_alloy_ext-neoforge-0.1.0-beta.jar'
+
+[update.modrinth]
+mod-id = 'IsNt34Dd'
+version = 'cCQwW1AJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'IsYwQTKM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tIm2nV03'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'UTFQ57AN'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5bKeBHw2'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'
+version = 'HjUho0IR'

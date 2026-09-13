@@ -1,0 +1,25 @@
+filename = 'tfc_support_indicator-1.0.7+mc1.21.1.jar'
+name = 'TFC Support Indicator'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.7+mc1.21.1'
+
+[download]
+hash = 'a48ca5969b5a46f8618590ed540938ca043b0b960eb264fc4ce156e1d1f537274a15837277fd74c48111e89b11ee8528188d4f851892105e657ed215880ef1c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RL8eBaUL/versions/MqLGbPEr/tfc_support_indicator-1.0.7%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'RL8eBaUL'
+version = 'MqLGbPEr'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'REQUIRED'

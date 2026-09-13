@@ -1,0 +1,26 @@
+filename = 'numismaticsutils-2.3-1.21.1.jar'
+name = 'Create: Numismatics Utils'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3-1.21.1'
+
+[download]
+hash = 'c04b462c54203ec92a1e34777359f6a85e6d128e6b836ad93ac8f1949454b77bffbb1bf37da1be16986cd78541c636ef5c008997486bef8328bb1104162be6d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8kRKVjUw/versions/czX7tcxy/numismaticsutils-2.3-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8kRKVjUw'
+version = 'czX7tcxy'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Jdbbtt0i'
+type = 'REQUIRED'
+version = 'kVi3TESX'

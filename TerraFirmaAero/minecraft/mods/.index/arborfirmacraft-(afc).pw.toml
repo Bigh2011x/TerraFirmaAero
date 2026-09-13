@@ -1,0 +1,25 @@
+filename = 'afc-2.1.3-1.21.1.jar'
+name = 'ArborFirmaCraft (AFC)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.3-1.21'
+
+[download]
+hash = '637c5b0f1cd621eddae1070f729c9ac031fb9fe311f81b285bf582a81df79c8aa82f41c60a506ebd434797897d910514472034f26f032c429c0e195a6fb25392'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9q4wtMjp/versions/AnZ78Sun/afc-2.1.3-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '9q4wtMjp'
+version = 'AnZ78Sun'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5bKeBHw2'
+type = 'OPTIONAL'

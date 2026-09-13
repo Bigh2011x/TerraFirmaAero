@@ -1,0 +1,18 @@
+filename = 'sablexaeromaps-1.21.1-1.4.0.jar'
+name = "Create - Xaero's map"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sablexaeromaps-1.21.1-1.4.0.jar'
+
+[download]
+hash = 'bf477a2e445a5c42bc06f476a4561f3e7fb2a914'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8736099
+project-id = 1622142

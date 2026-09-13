@@ -1,0 +1,36 @@
+/gamemode survival
+/gamemode creative
+/locate biome tfc:plains
+/tp @s -2764 100 3284
+/time set night
+/time set midnight
+/time set day
+/time set rain
+/time set clear
+/time set day
+/kill @e[type=!minecraft:player]
+/time set day
+/kill @e[type=!minecraft:player]
+/sable remove @e
+/weather2 summon firenado_f0
+/gamemode survival
+/weather2 summon firenado_f1
+/weather2 summon storm_lightning
+/gamemode survival
+/weather2 summon tornado_f4
+/gamemode survival
+/gamemode creative
+/weather2 wind_speed 1.5
+/weather2 summon tornado_player
+/weather2 kill_all_storms
+/give @s minecraft:acacia_boat
+/gamemode survival
+/weather2 summon tornado_f0
+/damage @s 1
+/time set day
+/weather2 kill_all_storms
+/weather2 summon sharknado
+/weather2 summon firenado_f1
+/gamemode survival
+/weather2 kill_all_storms
+/gamemode creative

@@ -1,0 +1,14 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "tfc:field_guide": {
+      "viewedEntries": [
+        "tfc:food/farmland",
+        "tfc:the_world/ores_and_minerals"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

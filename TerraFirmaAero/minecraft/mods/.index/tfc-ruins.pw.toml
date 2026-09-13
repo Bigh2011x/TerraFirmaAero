@@ -1,0 +1,21 @@
+filename = 'tfc_ruins-1.0.0-neoforge-1.21.1.jar'
+name = 'TFC Ruins'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '16ce5ac6926999f83dc24738cbc98487d2ac533e0c345d93ae4342b422b71133998f817d6796c7d9d161e4d6ad180774bdc4932487adf25de24fc66857ee6e95'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2JRpLCvK/versions/6PCcn8on/tfc_ruins-1.0.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '2JRpLCvK'
+version = '6PCcn8on'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'

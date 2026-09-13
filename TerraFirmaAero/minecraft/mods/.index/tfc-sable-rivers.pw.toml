@@ -1,0 +1,25 @@
+filename = 'tfc-sable-rivers-0.1.0.jar'
+name = 'TFC Sable Rivers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = '8bb697b740002b6fabceb0602b033572998c7aeb92afe8b0e4318a12ec4d588a6ca15f0bfd5d302ba4da8d90b2ffebdf942b6d10efe9e5a834b082fc55b762b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XO4N19bv/versions/eZ3f5rIR/tfc-sable-rivers-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'XO4N19bv'
+version = 'eZ3f5rIR'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
