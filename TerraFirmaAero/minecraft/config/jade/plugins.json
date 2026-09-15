@@ -52,11 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "beneath": {
-    "hellforge_side": true,
-    "ancient_altar": true,
-    "hellforge": true
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -77,6 +72,9 @@
   "ftbquests": {
     "barrier": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -88,9 +86,8 @@
     "block_properties": false,
     "mod_name": true
   },
-  "modern_industrialization": {
-    "overclock": true,
-    "pipe": true
+  "thermia": {
+    "entity_temperature_tooltip": true
   },
   "kubejs_tfc": {
     "heat_consumer": true
@@ -170,6 +167,7 @@
     "water_wheel": true,
     "crankshaft": true,
     "powder_keg": true,
+    "placed_item_": true,
     "pit_kiln_internal": true,
     "fish": true,
     "candle": true,
@@ -192,6 +190,9 @@
     "fruit": true,
     "rooty": true,
     "branch": true
+  },
+  "survivorsdelight": {
+    "feast_decay": true
   },
   "tfc_support_indicator": {
     "support_indicator": true

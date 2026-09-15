@@ -2,10 +2,22 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "dynamictrees:guide": {
+      "viewedEntries": [
+        "dynamictrees:trees/features",
+        "dynamictrees:trees/apple_tree",
+        "dynamictrees:trees/overworld_trees"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "tfc:field_guide": {
       "viewedEntries": [
         "tfc:food/farmland",
-        "tfc:the_world/ores_and_minerals"
+        "tfc:the_world/ores_and_minerals",
+        "tfc:getting_started/introduction",
+        "tfc:arborfirmacraft/making_syrups",
+        "tfc:metalworking/anvils"
       ],
       "bookmarks": [],
       "completedManualQuests": []

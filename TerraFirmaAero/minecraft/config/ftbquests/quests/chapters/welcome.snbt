@@ -1,0 +1,81 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "create:textures/gui/logo.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "2DA44E9D7DCAE717"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "moonlight:textures/gui/sprites/world_reload.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "14C6D71EA307E1CB"
+			rewards: [
+				{
+					count: 8
+					id: "57DC9B49BBEA5AF2"
+					item: {
+						components: {
+							"tfc:food": {
+								creation_date: 21600L
+							}
+						}
+						count: 1
+						id: "firmalife:food/flavorful_cooked_rice"
+					}
+					type: "item"
+				}
+				{
+					id: "37A9E281D980E991"
+					item: {
+						components: {
+							"patchouli:book": "tfc:field_guide"
+						}
+						count: 1
+						id: "patchouli:guide_book"
+					}
+					type: "item"
+				}
+				{
+					id: "39F085D1E5F9F2E2"
+					item: {
+						components: {
+							"patchouli:book": "dynamictrees:guide"
+						}
+						count: 1
+						id: "patchouli:guide_book"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "5C03E1261D8EC2C2"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "7450AA0DF88BF63E"
+			tasks: [{
+				id: "3AC9D1F70DFD0983"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+	]
+}

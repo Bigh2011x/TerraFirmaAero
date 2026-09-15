@@ -1,25 +1,26 @@
-[16:59:49] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
-[16:59:49] [INIT] Loaded plugins:
-[16:59:49] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[16:59:49] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
-[16:59:49] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[16:59:49] [INIT] - com.lowdragmc.lowdraglib2.integration.kjs.LDLibKubeJSPlugin
-[16:59:49] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
-[16:59:49] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[16:59:49] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[16:59:49] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[16:59:49] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[16:59:49] [INIT] - io.github.notenoughmail.kubejstfc.KubeJSTFCPlugin
-[16:59:49] [INIT] - io.github.notenoughmail.kubejstfc.compat.precpros.PrecProsPlugin
-[16:59:49] [INIT] - io.github.notenoughmail.kubejstfc.compat.firmalife.FirmaLifePlugin
-[16:59:49] [INIT] - io.github.notenoughmail.kubejstfc.compat.beneath.BeneathPlugin
-[16:59:49] [INIT] - io.github.notenoughmail.kubejstfc.compat.afc.AFCPlugin
-[16:59:49] [INIT] - net.davio.aquaticambitions.compat.KubeJS.CAAKubeJSPlugin
-[16:59:49] [INIT] - fr.iglee42.createcasing.kubejs.EncasedKJSPlugin
-[16:59:49] [INIT] - dev.propulsionteam.propulsionsimulated.compat.kubejs.PropulsionKubeJSPlugin
-[16:59:49] [INIT] - dev.propulsionteam.propulsionsimulated.compat.kubejs.PropulsionKubeJSPlugin
-[16:59:49] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:59:49] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
-[16:59:49] [INFO] Loaded script client_scripts:main.js in 0.0 s
-[16:59:49] [INFO] Loaded 1/1 KubeJS client scripts in 0.029 s with 0 errors and 0 warnings
-[17:00:06] [INFO] Client resource reload complete!
+[19:24:37] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[19:24:37] [INIT] Loaded plugins:
+[19:24:37] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[19:24:37] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[19:24:37] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[19:24:37] [INIT] - com.lowdragmc.lowdraglib2.integration.kjs.LDLibKubeJSPlugin
+[19:24:37] [INIT] - com.chen1335.immersiveEngineeringJs.kubejs.ImmersiveEngineeringJsPlugin
+[19:24:37] [INIT] - net.davio.aquaticambitions.compat.KubeJS.CAAKubeJSPlugin
+[19:24:37] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
+[19:24:37] [INIT] - fr.iglee42.createcasing.kubejs.EncasedKJSPlugin
+[19:24:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[19:24:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:24:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[19:24:37] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[19:24:37] [INIT] - dev.propulsionteam.propulsionsimulated.compat.kubejs.PropulsionKubeJSPlugin
+[19:24:37] [INIT] - dev.propulsionteam.propulsionsimulated.compat.kubejs.PropulsionKubeJSPlugin
+[19:24:37] [INIT] - io.github.notenoughmail.kubejstfc.KubeJSTFCPlugin
+[19:24:37] [INIT] - io.github.notenoughmail.kubejstfc.compat.precpros.PrecProsPlugin
+[19:24:37] [INIT] - io.github.notenoughmail.kubejstfc.compat.firmalife.FirmaLifePlugin
+[19:24:37] [INIT] - io.github.notenoughmail.kubejstfc.compat.afc.AFCPlugin
+[19:24:37] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[19:24:37] [INFO] Loaded script client_scripts:main.js in 0.001 s
+[19:24:37] [INFO] Loaded 1/1 KubeJS client scripts in 0.035 s with 0 errors and 0 warnings
+[19:24:50] [INFO] Client resource reload complete!
+[19:25:48] [INFO] Client resource reload complete!
+[19:26:17] [INFO] Client resource reload complete!

@@ -40,7 +40,7 @@
 [biome_modifications]
 	#
 	#Remove volcanic features from Canyons and Doline Canyons biomes
-	canyons_not_volcanic = true
+	canyons_not_volcanic = false
 
 [world_generation]
 	#
@@ -53,12 +53,12 @@
 	#TFC option. Determines the nature of continents. Smaller values create smaller continents and more islands, larger values create larger, blobbier continents
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
-	continentalness = 0.5
+	continentalness = 0.75
 	#
 	#TFC option. Affects how much grass generates in the world. Higher values indicate more grass coverage
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
-	grass_density = 0.5
+	grass_density = 0.7526041666666666
 	#
 	#TFC option. A number representing the temperature for an entire world, where -1.0 is polar and 1.0 is tropical
 	# Default: 0.0
@@ -68,7 +68,7 @@
 	#TFC option. A number representing the rainfall for an entire world, where -1.0 is arid and 1.0 is tropical
 	# Default: 0.0
 	# Range: -1.0 ~ 1.0
-	rainfall_constant = 0.0
+	rainfall_constant = 0.015625
 	#
 	#TFC option. The distance between two temperature extremes, in blocks
 	# Default: 20000

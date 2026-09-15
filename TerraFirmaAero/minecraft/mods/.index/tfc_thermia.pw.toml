@@ -1,0 +1,25 @@
+filename = 'thermia-0.2.1-beta.jar'
+name = 'Thermia'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2.1-beta'
+
+[download]
+hash = 'e9f5c514effb029252b1ed390954fccc9296b4a54fc3eae17ca40c3f59b034877e916e972d8a6fafe3433748479b7a53a29648dd677e904f13c127f561c96c97'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5zN7dZdO/versions/4TnXgIXF/thermia-0.2.1-beta.jar'
+
+[update.modrinth]
+mod-id = '5zN7dZdO'
+version = '4TnXgIXF'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'

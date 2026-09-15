@@ -1,0 +1,19 @@
+{
+	id: "4ad7ad70-dd98-470a-a438-bf61b02daec8"
+	type: "player"
+	player_name: "Bigh2011x"
+	ranks: {
+		4ad7ad70-dd98-470a-a438-bf61b02daec8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Bigh2011x"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

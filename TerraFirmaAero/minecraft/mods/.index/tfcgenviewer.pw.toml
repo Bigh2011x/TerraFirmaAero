@@ -1,0 +1,21 @@
+filename = 'tfcgenviewer-1.21.1-2.1.2.jar'
+name = 'TFCGenViewer'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.2'
+
+[download]
+hash = '3bb631cefd6294b9fbdfb4d4f5cb1b958dee07684962e35961fdb4cf8c3c1d8e79c037654a32000ef24d847ca0665988b02091959937e5eff761a557dd851f38'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yp9Ot3YC/versions/dxUTWTEa/tfcgenviewer-1.21.1-2.1.2.jar'
+
+[update.modrinth]
+mod-id = 'yp9Ot3YC'
+version = 'dxUTWTEa'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'

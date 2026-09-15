@@ -1,0 +1,37 @@
+filename = 'survivorsdelight-3.3.4-neoforge.jar'
+name = "Survivor's Delight [Farmer's Delight Compat with Terrafirmacraft (TFC)]"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'survivorsdelight-3.3.4-neoforge.jar'
+
+[download]
+hash = 'bc8287ea9ac63d84aa48fce44141db2dea595afb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8689934
+project-id = 1332913
+
+[[x-prismlauncher-dependencies]]
+addonId = '951750'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '302973'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1354890'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '453394'
+type = 'OPTIONAL'

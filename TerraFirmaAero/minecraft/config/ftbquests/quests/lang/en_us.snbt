@@ -1,0 +1,13 @@
+{
+	chapter.2DA44E9D7DCAE717.title: "Welcome!"
+	quest.14C6D71EA307E1CB.quest_desc: [
+		"This modpack mixes the realism from &aTerraFirmaCraft&r, the fun from &eCreate: Aeronautics&r, the tech from &9Modern Industrialization&r all into one pack, not to mention the &dcountless other content mods and addons there are&r."
+		""
+		"This pack runs fine with small memory allocations (3GB of memory allocated)."
+	]
+	quest.14C6D71EA307E1CB.quest_subtitle: "Welcome to the harsh reality of TerraFirmaCraft!"
+	quest.7450AA0DF88BF63E.quest_desc: ["These quests are &ahere to help you&r by providing valuable guidance and provide you with &esome currency early on&r (provided from &dCreate: Numismatics&r) which is the highly encouraged currency of this pack when playing on multiplayer."]
+	quest.7450AA0DF88BF63E.quest_subtitle: "Follow the Quests!!!!"
+	task.3AC9D1F70DFD0983.title: "Quests"
+	task.5C03E1261D8EC2C2.title: "Welcome!"
+}

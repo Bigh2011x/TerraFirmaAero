@@ -1,0 +1,29 @@
+filename = 'sableiefix-1.0-SNAPSHOT.jar'
+name = 'Sable & Immersive Engineering Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = '10f0776359a8c1225b2a360a64ee1103fe2ac1fe65ff164cf2a412398205f740681aa01287c64add0a1102ed0233440926def923c36f847d07ae24d828e84fc8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K0FLZQgq/versions/69djPCWm/sableiefix-1.0-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'K0FLZQgq'
+version = '69djPCWm'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tIm2nV03'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'sZbcIrJb'
+type = 'OPTIONAL'

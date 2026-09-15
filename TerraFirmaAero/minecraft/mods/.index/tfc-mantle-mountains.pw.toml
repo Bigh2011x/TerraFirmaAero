@@ -1,0 +1,25 @@
+filename = 'tfcmountains-1.4.1.jar'
+name = 'TFC Mantle Mountains'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.1'
+
+[download]
+hash = '624de345746a6f44a709b0873d0129645b9f230d36df5a5e48381ee9d67653df7d5879655eecadc18b1380a94d129029a8cade0818ce3b576f2189e0bb56e15d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FKgZ5qbO/versions/QFQvnHsL/tfcmountains-1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'FKgZ5qbO'
+version = 'QFQvnHsL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JaCEZUhg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'yp9Ot3YC'
+type = 'OPTIONAL'

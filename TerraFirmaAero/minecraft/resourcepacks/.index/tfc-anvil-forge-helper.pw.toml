@@ -1,0 +1,18 @@
+filename = 'tfc.anvil.forge.helper-v1.0.1.zip'
+name = 'TFC Anvil Forge Helper'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'aac5b1b51a90969dff649067140829b4ad07dc79db5a8597d02b6767463146db7d3ef6e9d9fce17449440484ce20286dee6b4ae7c10db4d78c385a78a7379233'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZtTHazW1/versions/W8WVaflH/tfc.anvil.forge.helper-v1.0.1.zip'
+
+[update.modrinth]
+mod-id = 'ZtTHazW1'
+version = 'W8WVaflH'

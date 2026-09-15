@@ -1,0 +1,49 @@
+[19:24:46.540] [INFO]: Loading config 'startup.json'.
+[19:24:51.190] [INFO]: Loaded plugins: almostunified:neoforge, almostunified:common, almostunified_ie:immersiveengineering
+[19:25:06.971] [WARN]: Reload detected. Reconstructing runtime.
+[19:25:06.972] [INFO]: Loading config 'debug.json'.
+[19:25:06.973] [INFO]: Loading config 'placeholders.json'.
+[19:25:06.975] [INFO]: Loading config 'tags.json'.
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:wires/copper' -> [powergrid:wire, electroenergetics:copper_wire, tfc_items:copper_wire]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/steel' -> [tfc:metal/rod/steel]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/nickel' -> [tfc:metal/block/nickel]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/copper' -> [tfc:metal/ingot/copper]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:wires/lead' -> [tfc_items:lead_wire]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/brass' -> [tfc:metal/ingot/brass]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:gems/lapis' -> [tfc:gem/lapis_lazuli]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/silver' -> [tfc:metal/ingot/silver]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:wires/steel' -> [tfc_items:steel_wire]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/uranium' -> [tfc_ie_addon:metal/block/uranium]
+[19:25:06.993] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/lead' -> [tfc_ie_addon:metal/block/lead]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/gold' -> [tfc:metal/ingot/gold]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/copper' -> [immersiveengineering:nugget_copper]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/iron' -> [immersiveengineering:plate_iron]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/gold' -> [tfc:metal/block/gold]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/brass' -> [tfc:metal/block/brass]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/zinc' -> [tfc:metal/ingot/zinc]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:gems/emerald' -> [tfc:gem/emerald]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/copper' -> [immersiveengineering:plate_copper]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/electrum' -> [tfc_ie_addon:metal/block/electrum]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/zinc' -> [tfc:metal/block/zinc]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/steel' -> [createbigcannons:steel_ingot, tfc:metal/ingot/steel]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/aluminum' -> [tfc_ie_addon:metal/block/aluminum]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/constantan' -> [tfc_ie_addon:metal/block/constantan]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/sulfur' -> [tfc:powder/sulfur]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:gems/diamond' -> [tfc:gem/diamond]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/steel' -> [createbigcannons:steel_scrap]
+[19:25:06.994] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:wires/aluminum' -> [tfc_items:aluminum_wire]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 21/23 items for tag '#c:ores/emerald' -> [tfc:ore/emerald/quartzite, tfc:ore/emerald/chalk, tfc:ore/emerald/slate, tfc:ore/emerald/conglomerate, tfc:ore/emerald/schist, tfc:ore/emerald/limestone, tfc:ore/emerald/tuff, tfc:ore/emerald/rhyolite, tfc:ore/emerald/granite, tfc:ore/emerald/dacite, tfc:ore/emerald/andesite, tfc:ore/emerald/phyllite, tfc:ore/emerald/basalt, tfc:ore/emerald/claystone, tfc:ore/emerald/diorite, tfc:ore/emerald/gneiss, tfc:ore/emerald/chert, tfc:ore/emerald/marble, tfc:ore/emerald/gabbro, tfc:ore/emerald/shale, tfc:ore/emerald/dolomite]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/gold' -> [immersiveengineering:plate_gold]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/netherite' -> [createdeco:netherite_nugget]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/steel' -> [createbigcannons:steel_block, tfc:metal/block/steel]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/iron' -> [tfc:metal/ingot/wrought_iron]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/copper' -> [tfc:metal/block/copper]
+[19:25:06.996] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/silver' -> [tfc:metal/block/silver]
+[19:25:06.997] [INFO]: [AutoHiding] Hiding 21/23 items for tag '#c:ores/diamond' -> [tfc:ore/diamond/limestone, tfc:ore/diamond/basalt, tfc:ore/diamond/marble, tfc:ore/diamond/conglomerate, tfc:ore/diamond/claystone, tfc:ore/diamond/schist, tfc:ore/diamond/rhyolite, tfc:ore/diamond/diorite, tfc:ore/diamond/chalk, tfc:ore/diamond/andesite, tfc:ore/diamond/phyllite, tfc:ore/diamond/dacite, tfc:ore/diamond/gabbro, tfc:ore/diamond/dolomite, tfc:ore/diamond/slate, tfc:ore/diamond/quartzite, tfc:ore/diamond/shale, tfc:ore/diamond/chert, tfc:ore/diamond/gneiss, tfc:ore/diamond/granite, tfc:ore/diamond/tuff]
+[19:25:06.997] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/nickel' -> [tfc:metal/ingot/nickel]
+[19:25:06.997] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:wires/electrum' -> [electroenergetics:electrum_wire, tfc_items:electrum_wire]
+[19:25:06.997] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/aluminum' -> [tfc_items:aluminum_rod]
+[19:25:07.442] [INFO]: Loading config 'duplicates.json'.
+[19:25:07.444] [INFO]: Recipe count: 25043
+[19:25:07.518] [INFO]: 22920 out of 25043 recipes were loaded for unification.
+[19:25:07.804] [INFO]: Recipe count afterwards: 25007 (done in 359.8 ms)

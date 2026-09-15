@@ -1,36 +1,50 @@
-/gamemode survival
-/gamemode creative
-/locate biome tfc:plains
-/tp @s -2764 100 3284
-/time set night
-/time set midnight
-/time set day
-/time set rain
+/weather2 kill_all_storms
+/weather disable
 /time set clear
 /time set day
-/kill @e[type=!minecraft:player]
-/time set day
-/kill @e[type=!minecraft:player]
-/sable remove @e
-/weather2 summon firenado_f0
-/gamemode survival
-/weather2 summon firenado_f1
-/weather2 summon storm_lightning
-/gamemode survival
-/weather2 summon tornado_f4
+/weather2 kill_all_storms
+/weather2 wind_event clear
 /gamemode survival
 /gamemode creative
-/weather2 wind_speed 1.5
-/weather2 summon tornado_player
-/weather2 kill_all_storms
-/give @s minecraft:acacia_boat
+/weather2 config
+/weather2 debug print_grab_list
+/catnip config
+/locate biome tfc:active_shield_volcano
+/tp @s 924 94 -11157
+/tfcv tremor list
+/tfcv tremor pyroclasticFlow
+/locate biome tfc:volcanic_mountains
+/locate biome tfc:volcanic_mountain_islands
+/tp @s -4895 104 -11259
+/locate biome tfc:glaciated_volcanic_mountains
+/locate biome tfc:volcanic_oceanic_mountains
+/tp @s -5918 123 -11990
+/locate biome tfc:extreme_doline_mountains
+/locate biome tfc:glacially_carved_mountains
+/locate biome tfc:glaciated_mountains
+/locate biome tfc:mountains
+/tp @s -3125 158 -9877
+/locate biome tfc:plains
+/tp @s -3339 158 -10072
+/tp @s ~ ~ 10000
+/tp @s ~ ~ 0
+/tp @s 10000 ~ 0
+/tp @s 100000 ~ 0
+/item modify block ~ ~ ~ armor.body hi
+/tfc heat 5
+/data modify entity @s SelectedItem.tag.tfc:heat set value 1000f
+/give @s tfc:metal/ingot/wrought_iron{tfc:heat:1000f}
+/give @s tfc:metal/ingot/wrought_iron[tfc:heat=1000f]
+/give @s tfc:metal/ingot/wrought_iron[tfc:heat=1000]
 /gamemode survival
-/weather2 summon tornado_f0
-/damage @s 1
-/time set day
-/weather2 kill_all_storms
-/weather2 summon sharknado
-/weather2 summon firenado_f1
-/gamemode survival
-/weather2 kill_all_storms
-/gamemode creative
+/kill @e[type=!minecraft:player]
+/
+/kill @e[type=!minecraft:player]
+/
+/kill @e[type=!minecraft:player]
+/
+/kill @e[type=!minecraft:player]
+/
+/aal
+/aal debug
+/aal materialization inspect tqer

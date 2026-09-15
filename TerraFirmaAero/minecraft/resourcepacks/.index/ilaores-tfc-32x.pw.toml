@@ -1,0 +1,18 @@
+filename = "[1.21.1_ver_0.23]_ILAORE's_TFC_32x.zip"
+name = "ILAORE's TFC 32x"
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1'
+
+[download]
+hash = 'e72e3e0c0ee9a7297f311763506570b0248b65fb10b2cf9f94c5c87541813916713d978ad7679c09b0571745ccf66e3b4b7b62df9c94c1ab9251c19fa66f834e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vqrI97xw/versions/49kVcfo6/%5B1.21.1_ver_0.23%5D_ILAORE%27s_TFC_32x.zip'
+
+[update.modrinth]
+mod-id = 'vqrI97xw'
+version = '49kVcfo6'
